@@ -1,0 +1,10 @@
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\easy_key_repeater.Form1.resources
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\easy_key_repeater.Properties.Resources.resources
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\easy_key_repeater.csproj.GenerateResource.cache
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\easy_key_repeater.csproj.CoreCompileInputs.cache
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\easy_key_repeater.csprojAssemblyReference.cache
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\bin\Release\ekr.exe.config
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\bin\Release\ekr.exe
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\bin\Release\ekr.pdb
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\ekr.exe
+C:\Users\vankaiser\source\repos\easy_key_repeater\easy_key_repeater\obj\Release\ekr.pdb
